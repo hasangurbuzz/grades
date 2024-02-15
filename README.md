@@ -18,7 +18,9 @@
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-sort-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-search-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-delete-d.png">
-    <img width="300" src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-m.png">
+    <div style="width: 100%">
+        <img width="300" src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-m.png">
+    </div>
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/create-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/create-info-d.png">
 </div>
