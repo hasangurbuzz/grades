@@ -12,13 +12,15 @@
 - React Bootstrap
 - Axios
 
+## Screenshots
+
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home_detail-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-sort-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-search-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-delete-d.png">
-    <div style="width: 100%">
+    <div style="display: flex; justify-content: center; width: 100%;">
         <img width="300" src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-m.png">
     </div>
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/create-d.png">
