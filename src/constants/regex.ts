@@ -1,0 +1,1 @@
+export const trChars = "^[A-Za-zğüşöçıİĞÜŞÖÇ ]*$"
