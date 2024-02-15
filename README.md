@@ -12,7 +12,7 @@
 - React Bootstrap
 - Axios
 
-<center>
+<div style="display: flex; flex-direction: column; align-items: center">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home_detail-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-sort-d.png">
@@ -21,4 +21,4 @@
     <img width="300" src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-m.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/create-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/create-info-d.png">
-</center>
+</div>
