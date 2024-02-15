@@ -28,7 +28,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "openapi-generator-cli generate && react-scripts build",
+    "build": "npm run openapi-generate && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "openapi-generate": "openapi-generator-cli generate"
