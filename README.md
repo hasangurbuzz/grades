@@ -12,7 +12,7 @@
 - React Bootstrap
 - Axios
 
-<div style="display: flex; flex-direction: column; align-items: center">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home_detail-d.png">
     <img src="https://raw.githubusercontent.com/hasangurbuzz/grades/master/ss/home-sort-d.png">
