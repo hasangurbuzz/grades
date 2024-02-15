@@ -12,6 +12,39 @@
 - React Bootstrap
 - Axios
 
+## Install
+#### Clone repository
+```
+git clone https://github.com/hasangurbuzz/grades.git
+```
+
+#### Navigate to project root directory
+```
+cd grades
+```
+
+#### Install dependencies
+```
+npm install
+```
+
+- #### To deployment
+  #### Build app
+    ```
+    npm run build
+    ```  
+
+- #### To run as dev
+    #### Generate OpenAPI client
+    ```
+    npm run openapi-generate
+    ```
+    #### Start app
+    ```
+    npm run start
+    ```
+    
+
 ## Screenshots
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
